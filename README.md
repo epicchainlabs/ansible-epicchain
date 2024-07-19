@@ -6,13 +6,13 @@ Welcome to the NSPCC EpicChain Ansible Collection! This repository provides a su
 
 The NSPCC EpicChain Ansible Collection includes the following roles:
 
-- **[IR](https://github.com/nspcc-dev/epicchain-node)**: This role is used for managing the Infrastructure Resource (IR) components essential for running EpicChain. It ensures that the infrastructure is set up correctly and that all necessary resources are provisioned.
+- **[IR](https://github.com/epicchainlabs/epicchain-node)**: This role is used for managing the Infrastructure Resource (IR) components essential for running EpicChain. It ensures that the infrastructure is set up correctly and that all necessary resources are provisioned.
 
-- **[Storage](https://github.com/nspcc-dev/epicchain-node)**: The Storage role handles the configuration and management of storage solutions required by EpicChain. It ensures that all storage resources are available and properly configured to support EpicChain operations.
+- **[Storage](https://github.com/epicchainlabs/epicchain-node)**: The Storage role handles the configuration and management of storage solutions required by EpicChain. It ensures that all storage resources are available and properly configured to support EpicChain operations.
 
-- **[REST Gateway](https://github.com/nspcc-dev/epicchain-rest-gw)**: The REST Gateway role is responsible for setting up and managing the RESTful API gateway for EpicChain. This gateway provides the necessary endpoints for communication between different components and external systems.
+- **[REST Gateway](https://github.com/epicchainlabs/epicchain-rest-gw)**: The REST Gateway role is responsible for setting up and managing the RESTful API gateway for EpicChain. This gateway provides the necessary endpoints for communication between different components and external systems.
 
-- **[S3 Gateway](https://github.com/nspcc-dev/epicchain-s3-gw)**: This role manages the S3 Gateway, which integrates EpicChain with Amazon S3-compatible storage services. It handles the configuration and connection to S3 storage, facilitating data storage and retrieval.
+- **[S3 Gateway](https://github.com/epicchainlabs/epicchain-s3-gw)**: This role manages the S3 Gateway, which integrates EpicChain with Amazon S3-compatible storage services. It handles the configuration and connection to S3 storage, facilitating data storage and retrieval.
 
 ## Resources
 
