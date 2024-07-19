@@ -23,7 +23,7 @@ For more information and detailed configuration settings for each role, please r
 - **S3 Gateway Role**: [Detailed Configuration](docs/s3_gw.md)
 - **REST Gateway Role**: [Detailed Configuration](docs/rest_gw.md)
 
-Additionally, you can view a real-world usage example in the [ansible-epicchain-template](https://github.com/nspcc-dev/ansible-epicchain-template), which demonstrates how to use these roles in practice.
+Additionally, you can view a real-world usage example in the [ansible-epicchain-template](https://github.com/epicchainlabs/ansible-epicchain-template), which demonstrates how to use these roles in practice.
 
 ## Compatibility
 
@@ -41,7 +41,7 @@ If you are migrating from older roles, you can integrate this collection by addi
 
 ## Contribution and Support
 
-We welcome contributions to this project. If you encounter any issues or have suggestions for improvements, please submit an issue or a pull request on our [GitHub repository](https://github.com/nspcc-dev/ansible-epicchain). For support and further inquiries, you can reach out to the NSPCC development team through the contact information provided on our [official site](https://nspcc.io).
+We welcome contributions to this project. If you encounter any issues or have suggestions for improvements, please submit an issue or a pull request on our [GitHub repository](https://github.com/epicchainlabs/ansible-epicchain). For support and further inquiries, you can reach out to the NSPCC development team through the contact information provided on our [official site](https://epic-chain.org).
 
 ## License
 
